@@ -1,0 +1,2 @@
+*.pptx filter=lfs diff=lfs merge=lfs -text
+Нейросети[[:space:]]для[[:space:]]обучения.pptx filter=lfs diff=lfs merge=lfs -text
